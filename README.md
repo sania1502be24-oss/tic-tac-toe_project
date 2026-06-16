@@ -33,12 +33,6 @@ tic-tac-toe/
 ├── screenshot.png
 └── README.md
 
-## Screenshot
-
-Add your project screenshot below:
-
-![Tic Tac Toe Screenshot](screenshot.png)
-
 ## Future Improvements
 
 * Add single-player mode against AI
@@ -59,4 +53,4 @@ Through this project, I learned:
 
 ## Author
 
-Your Name
+Sania Mittal
